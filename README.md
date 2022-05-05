@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @FrancielyLavine
-- 👀 I’m interested in ...
--  🌱  Estou cursando DESENVOLVIMENTO DE SOFTWARE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Sou Franciely Lavine, estudante de matemática licenciatura por acidente e desenvolvedora de software full Stack.
 
-<!---
-FrancielyLavine/FrancielyLavine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Gosto de fazer continhas aleatórias em qualquer pedaço de papel nas horas vagas. Amante da educação, busco incentivar a entrada de mulheres pretas nas ciências exatas.
+
+Atualmente moro em Maceió/AL.
