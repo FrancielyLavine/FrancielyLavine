@@ -1,6 +1,6 @@
 # Olá, mundo!! :wave:
 
-Sou Franciely Lavine, sou desenvolvedora de software full Stack :woman_technologist: e estudante de matemática licenciatura (por acidente) :nerd_face:.
+Sou Franciely Lavine, desenvolvedora de software full Stack :woman_technologist: e estudante de matemática licenciatura (por acidente) :nerd_face:.
 
 Gosto de fazer continhas aleatórias em qualquer pedaço de papel nas horas vagas. Amante da educação, busco incentivar a entrada de mulheres pretas nas ciências exatas 	:woman_scientist:.
 
