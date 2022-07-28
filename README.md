@@ -1,8 +1,10 @@
 # Olá, mundo!! :wave:
 
-Sou Franciely Lavine, desenvolvedora de software full Stack :woman_technologist: e estudante de matemática licenciatura (por acidente) :nerd_face:.
+Desenvolvedora de software e graduanda em Matemática (Help!), estou a procura da minha primeira oportunidade na área de tecnologia.
 
-Gosto de fazer continhas aleatórias em qualquer pedaço de papel nas horas vagas. Amante da educação, busco incentivar a entrada de mulheres pretas nas ciências exatas 	:woman_scientist:.
+Recentemente concluí o curso de desenvolvimento de software na Cubos Academy. Lá, além dá os primeiros passos na programação, também aprendi diversas soft skills e pude colocá-las em prática nas atividades avaliativas, principalmente nas duas últimas, pois foram em grupo.
+
+Gosto de fazer continhas aleatórias em qualquer pedaço de papel nas horas vagas. Amante da educação, busco incentivar a entrada de mulheres pretas nas ciências exatas 👩‍🔬.	:woman_scientist:.
 
 ### Hard Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
